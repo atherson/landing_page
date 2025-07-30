@@ -1,21 +1,17 @@
-/* Element selector */
 body {
   font-family: Arial, sans-serif;
   background-color: #f2f2f2;
 }
 
-/* Class selector */
 .navbar {
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-/* ID selector */
 #hero-text {
   height: 80vh;
   background: url('https://images.unsplash.com/photo-1549924231-f129b911e442') no-repeat center center/cover;
 }
 
-/* Pseudo-class selector */
 a:hover {
   color: yellow;
 }
