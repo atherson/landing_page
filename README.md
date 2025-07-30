@@ -27,7 +27,7 @@ A responsive and stylish landing page for a fictional car service company built 
 
 ---
 
-## 📂 File Structure
+## File Structure
 ├── index.html
 ├── style.css
 ├── script.js
